@@ -1,2 +1,2 @@
 # css_study
-scss 연습
+css 연습
